@@ -28,8 +28,8 @@
 
 ## 📫 Let's Connect
 
-📧 rohan.email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/rohan-singh) | [Portfolio](https://yourportfolio.com)
+📧 rohansingh8861@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/rohan-singh) 
 
 ---
 
