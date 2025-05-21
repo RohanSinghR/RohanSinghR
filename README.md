@@ -29,6 +29,6 @@
 ## 📫 Let's Connect
 
 📧 rohansingh8861@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/rohan-singh) 
+🔗 [LinkedIn](https://www.linkedin.com/in/rohan-singh136/) 
 
 
