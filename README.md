@@ -18,11 +18,11 @@
 
 ## 🚀 Featured Projects
 
-- **[PyroWatch 🔥](link)** – AI wildfire detection system | 🏆 Best Overall @ Uncommon Hacks 2025  
-- **[CreditChain 💰](link)** – Blockchain-based crypto wallet  
-- **[ExcelSoft 👥](link)** – HR app to manage job applications  
-- **[Dumpy ♻️](link)** – Smart waste management app with rewards  
-- **[Agritype 🌾](link)** – Soil-type based crop suggestion app
+- **[PyroWatch 🔥](https://github.com/RohanSinghR/PyroWatch-From-first-spark-to-first-response)** – AI wildfire detection system | 🏆 Best Overall @ Uncommon Hacks 2025  
+- **[CreditChain 💰](https://github.com/RohanSinghR/Credit_Chain)** – Blockchain-based crypto wallet  
+- **[ExcelSoft 👥](https://github.com/RohanSinghR/hackerrupt22)** – HR app to manage job applications  
+- **[Dumpy ♻️](https://github.com/RohanSinghR/Dumpy-A-waste-management-application)** – Smart waste management app with rewards  
+- **[Agritype 🌾](https://github.com/RohanSinghR/agritype1)** – Soil-type based crop suggestion app
 
 ---
 
@@ -31,7 +31,4 @@
 📧 rohansingh8861@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/rohan-singh) 
 
----
-
-⭐ *Star your favorite projects and keep building awesome stuff!*
 
