@@ -1,3 +1,6 @@
+![Artificial Intelligence _ Visual effect motion](https://github.com/user-attachments/assets/ff1723d3-38af-41fb-86d6-e13d5de215d6)
+
+
 # Hi, I'm Rohan Singh 👋
 
 🎓 Master's in Computer Science @ Illinois Institute of Technology  
