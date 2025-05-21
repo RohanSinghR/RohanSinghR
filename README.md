@@ -1,5 +1,4 @@
-![Artificial Intelligence _ Visual effect motion](https://github.com/user-attachments/assets/ff1723d3-38af-41fb-86d6-e13d5de215d6)
-
+![the astronaut](https://github.com/user-attachments/assets/fe963419-0fd5-477a-98b0-b98122a70abf)
 
 # Hi, I'm Rohan Singh 👋
 
