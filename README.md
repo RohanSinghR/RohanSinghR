@@ -30,7 +30,7 @@
 
 ## 📫 Let's Connect
 
-📧 rohansingh8861@gmail.com  
+✉️ rohansingh8861@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/rohan-singh136/) 
 
 
