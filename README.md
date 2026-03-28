@@ -73,7 +73,7 @@ Currently focused on AI engineering, document intelligence, and agentic workflow
 
 <div align="center">
 
-![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RohanSinghR&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=86400)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RohanSinghR&theme=github_dark)
 
 </div>
 
