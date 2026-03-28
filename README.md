@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RohanSinghR&color=58A6FF&style=flat&label=Profile+Views)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=500&lines=AI+Engineer+%7C+Full+Stack+Developer;LLMs+%7C+Agentic+Systems+%7C+Computer+Vision;Open+to+Full-time+Roles+%E2%80%94+May+2026)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=500&lines=AI+Engineer+%7C+Full+Stack+Developer;LLMs+%7C+Agentic+Systems+%7C+Generative+AI;Open+to+Full-time+Roles+%E2%80%94+May+2026)](https://git.io/typing-svg)
   
   # Rohan Singh
   
