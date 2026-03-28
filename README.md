@@ -61,8 +61,9 @@ Currently focused on AI engineering, document intelligence, and agentic workflow
 
 ## Highlights
 
+- **1st Place** — Uncommon Hacks 2025 (120+ teams)
 - **1st Place** — AWS GameDay with HashiCorp Terraform, Illinois Tech
-- **Winner** — Uncommon Hacks 2025 (120+ teams)
+- **Runner-up** — Void Hacks 4.0 · National Hackathon
 - **Top 5** — Demon Hacks 2026
 - **Finalist** — Grainger Computing Innovation Prize 2025
 - **IEEE Published** — *Dumpy: A Smart Waste Management Application*
