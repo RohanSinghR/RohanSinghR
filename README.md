@@ -20,7 +20,7 @@
 
 ## About
 
-I build production-grade AI systems and full-stack applications. My work spans LLM-powered pipelines, IoT edge inference, computer vision, and scalable web platforms. I have shipped software across four internships including Toyota and Brillient, won multiple national hackathons, and published in IEEE.
+I build production-grade AI systems and full-stack applications. My work spans LLM-powered pipelines, IoT edge inference, Generative AI, and scalable web platforms. I have shipped software across four internships including Toyota and Brillient, won multiple national hackathons, and published in IEEE.
 
 Currently focused on AI engineering, document intelligence, and agentic workflow systems.
 
